@@ -1,4 +1,5 @@
 # Bytecode de Python
+#Carlos fuel autor
 __pycache__/
 *.py[cod]
 *$py.class
@@ -41,6 +42,8 @@ htmlcov/
 .tox/
 .nox/
 .pytest_cache/
+
+
 
 # Otros
 *.egg-info/
